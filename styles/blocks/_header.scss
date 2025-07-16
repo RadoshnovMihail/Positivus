@@ -1,0 +1,14 @@
+.header{
+    padding-top: 60px;
+
+    &__inner{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        column-gap: 40px;
+    }
+
+    &__menu{
+        margin-left: auto;
+    }
+}
